@@ -1,0 +1,28 @@
+.speech{
+font: 100;
+font-family: 'Times New Roman', Times, serif;
+font-size: medium;
+color:black;
+}
+.direction{
+font: 150;
+font-size: larger;
+color:black;
+background-color:antiquewhite;
+}
+.name:hover{
+
+
+
+
+}
+.direction.hover{
+background-color:azure;
+color:brown;
+}
+.helmer{
+color:blue;
+}
+.nora{
+color:crimson;
+}
