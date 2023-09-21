@@ -26,28 +26,28 @@
     font-weight: bold;
 }
 .helmer:hover{
-    text-shadow: 8px 9px 7px rgb(178, 14, 164);
+    text-shadow:8px 9px 7px rgb(178, 14, 164);
     border:solid 2px rgb(116, 184, 218);
 }
 .nora:hover{
-    text-shadow: 8px 9px 7px rgb(178, 14, 164);
+    text-shadow:8px 9px 7px rgb(178, 14, 164);
     border:solid 2px rgb(116, 184, 218);
 }
 
 #Table{
-    margin: centre;
-    padding: 5px;
-    border: 2px solid #1b1a1a;
-    color: rgb(178, 14, 164);
-    background-color: beige;
-    text-align: center;
+    margin:centre;
+    padding:5px;
+    border:2px solid #1b1a1a;
+    color:rgb(178, 14, 164);
+    background-color:beige;
+    text-align:center;
 }
 
 th{
-    background-color: rgb(116, 184, 218);
+    background-color:rgb(116, 184, 218);
     color:rgb(100, 50, 174);
     text-align:center;
-    padding: 20px;
+    padding:20px;
     border:3px solid rgb(169, 119, 199);
 }
 
@@ -62,7 +62,7 @@ tr{
 }
 
 tr:nth-child(even){
-    background-color: rgb(155, 76, 76);
+    background-color:rgb(155, 76, 76);
 }
 
  
