@@ -9,7 +9,7 @@
     font-family: 'Courier New', Courier, monospace;
     background-color:antiquewhite;
 }
-.direction.hover{
+.direction:hover{
     background-color: azure;
     color: brown;
 }
