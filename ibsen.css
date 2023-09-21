@@ -9,6 +9,9 @@
     font-family: 'Courier New', Courier, monospace;
     background-color:antiquewhite;
 }
+.name{
+    color:darkblue;
+}
 .direction:hover{
     background-color: azure;
     color: brown;
