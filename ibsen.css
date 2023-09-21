@@ -25,11 +25,31 @@
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
 }
+.SERVANT{
+    font-size: 20px;
+    color:rgb(92, 83, 121);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.KROGSTAD{
+    font-size: 20px;
+    color:rgb(151, 151, 132);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold; 
+}
 .helmer:hover{
     text-shadow:8px 9px 7px rgb(178, 14, 164);
     border:solid 2px rgb(116, 184, 218);
 }
 .nora:hover{
+    text-shadow:8px 9px 7px rgb(178, 14, 164);
+    border:solid 2px rgb(116, 184, 218);
+}
+.SERVANT:hover{
+    text-shadow:8px 9px 7px rgb(178, 14, 164);
+    border:solid 2px rgb(116, 184, 218);
+}
+.KROGSTAD:hover{
     text-shadow:8px 9px 7px rgb(178, 14, 164);
     border:solid 2px rgb(116, 184, 218);
 }
